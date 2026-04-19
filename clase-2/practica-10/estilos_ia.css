@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+    background-image: url("img/fondo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial;
+    color: white;
+}
+
+h1 {
+    color: darkred;
+    font-family: "Times New Roman";
+    text-align: center;
+    background-color: black;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: darkred;
+    font-family: "Times New Roman";
+    background-color: black;
+    text-decoration: underline;
+}
+
+h3 {
+    color: white;
+    font-family: "Times New Roman";
+}
+
+p {
+    color: white;
+    font-family: Arial;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+li {
+    color: white;
+    font-family: Arial;
+}
+
+a {
+    color: darkred;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+ul {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+img {
+    border: 2px solid darkred;
+}
+
+#blanco {
+    color: white;
+}
+
+#ame {
+    color: darkred;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+/*DECLARACIÓN DE USO DE IA: Le pasé los archivos HTML y mi archivos de CSS para que sepa la estructura, y generó uno propio. La IA generó un estilo muy similar, pero más coherente. Le agregó marcos a las imagenes, centró el título, le agregó un subrayado negro con baja opacidad para que sea legible el texto pero no tape el fondo, le agregó un efecto a los links y estilizó los títulos. Agarró mi diseño y lo elevó.
