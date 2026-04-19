@@ -1,0 +1,12 @@
+p {color: white; font-family: Arial; background-color: darkred;}
+h1 {color: darkred; font-family: Times New Roman}
+h2 {color: darkred; font-family: Times New Roman}
+h3 {color: darkred; font-family: Times New Roman}
+li {color: white; font-family: Arial;}
+body {background-color: black;}
+#blanco {color: white; font-family: Times New Roman}
+body {background-image: url("img/fondo.png");
+			background-position: center;
+			background-repeat: no-repeat;
+			background-attachment: fixed;}
+#ame {text-decoration: underline;}			
