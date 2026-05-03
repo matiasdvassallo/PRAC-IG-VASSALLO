@@ -1,0 +1,83 @@
+/*#contenedor {
+	width: 100%;
+	max-width: 960px;
+}*/
+
+body {
+	background-color: rebeccapurple;
+	font-family: Times New Roman, cursive;
+}
+
+header {
+	text-align: center;
+	background-color: blanchedalmond;
+	border: 3px solid darkviolet;
+}
+
+h1 {
+	font-family: 'Playwrite DE SAS', cursive;
+	color: darkviolet;
+}
+
+header p {
+	color: black;
+	text-decoration: underline;
+}
+
+nav li {
+	display: inline;
+	margin-right: 15px;
+}
+
+nav ul {
+	list-style: none;
+	text-align: center;
+}
+
+nav a:link {
+	text-decoration: none;
+	color: darkviolet;
+	background-color: rebeccapurple;
+}
+nav a:visited {
+	text-decoration:inherit  ;
+	color: blueviolet;
+	background-color: inherit;
+}
+
+nav a:hover {
+	color: white;
+	background-color: darkviolet;
+}
+
+img {
+	display: block;
+	margin: auto;
+	border: 3px solid blanchedalmond;
+}
+
+footer {
+	text-align: center;
+	background-color: darkviolet;
+
+}
+
+h3 {
+	color: blanchedalmond;
+}
+
+section p {
+	color: darkviolet;
+	background-color: blanchedalmond;
+	text-align: center;
+	border: 3px solid darkviolet;
+}
+
+article {
+	text-align: center;
+	text-decoration: underline;
+}
+
+hr {
+	color: blanchedalmond;
+}
