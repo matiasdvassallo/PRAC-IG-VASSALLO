@@ -1,1 +1,1 @@
-Practicas y TPs de Informática General - Cátedra Drelichman TN - UNA
+Practicas de Informática General - Cátedra Drelichman 2026 - UNA
