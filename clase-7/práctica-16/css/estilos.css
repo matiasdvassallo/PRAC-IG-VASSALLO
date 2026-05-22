@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: black;
+}
+
+div {
+	text-align: center;
+	margin: auto;
+}
+
+div h1 {
+	color: greenyellow;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 14rem;
+}
