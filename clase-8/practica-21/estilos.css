@@ -1,0 +1,20 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: rgb(101, 80, 46);
+}
+
+div {
+	text-align: center;
+	margin: auto;
+}
+
+div h1 {
+	color: rgb(41, 30, 2);
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 10rem;
+	padding-top: 3.5rem;
+}
