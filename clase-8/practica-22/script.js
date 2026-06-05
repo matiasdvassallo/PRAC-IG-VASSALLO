@@ -12,15 +12,14 @@ let retorno = dividir(precio, descuento);
 
 if (retorno) {
     resultado.innerText = retorno;
-}* -MI INTENTO- */
+}* 
+-MI INTENTO- */
 
 // SUGERIDO POR LA IA
 let resultado = document.querySelector("#resultado");
 let boton = document.querySelector("#final");
 
 boton.addEventListener("click", function(event) {
-
-    event.preventDefault();
 
     let precio = Number(document.querySelector("#precio").value);
     let descuento = Number(document.querySelector("#descuento").value);
